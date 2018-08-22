@@ -1,0 +1,28 @@
+.Movie {
+  width: 200px;
+  margin-left: 60px;
+  text-align: center;
+}
+
+.Movie_poster {
+  height: 280px;
+}
+
+.Movie_btn {
+  visibility: hidden;
+  background-color: red;
+  font-family: helvetica;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+}
+
+.Movie:hover .Movie_btn{
+  visibility: visible;
+}
+
