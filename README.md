@@ -11,3 +11,5 @@ The list of titles in the “My List” row should be displayed at the bottom of
 [Demo](https://xiaoyan-l.github.io/Netflix-like-page/)
 
 ## Component Architecture
+
+![architectue](/doc_img/react-architecture.png)
