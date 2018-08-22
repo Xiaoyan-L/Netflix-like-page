@@ -1,0 +1,11 @@
+.MovieList {
+  display: flex;
+  overflow: auto;
+  flex-wrap: wrap;
+}
+
+.MovieList_title {
+  padding: 30px;
+  font-family: helvetica;
+  text-align: left;
+}
